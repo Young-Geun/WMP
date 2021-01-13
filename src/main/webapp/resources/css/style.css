@@ -1,0 +1,39 @@
+table {
+	padding-top: 30px !important;
+}
+
+th {
+	width: 200px;
+	text-align: right;
+}
+
+td {
+	padding-left: 50px;
+	text-align: left;
+	word-wrap: break-word;
+}
+
+select {
+	width: 308px;
+}
+
+div {
+	max-width: 800px;
+	
+}
+
+.wid50 {
+	width: 50px;
+}
+
+.wid300 {
+	width: 300px;
+}
+
+.txt_right {
+	text-align: right;
+}
+
+.btn {
+	text-align: right;
+}
